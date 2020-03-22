@@ -7,22 +7,11 @@ author_profile: true
 
 -----------
 
-**Full publication list can be accessed from the [Google Scholar].**
+**Undergraduate Research Work (Ongoing)**
 
 
-## 2019
+## Thesis Title: Unsupervised Video Summarization from Cricket Videos With Deep Reinforcement Learning
+
 -----------
-
-## 2018
------------
- 
-
-## 2017
------------
-
-
-## 2014
------------
-
-## 2012
+### Supervisor: Md Shoeb Shahriar
 -----------

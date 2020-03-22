@@ -19,12 +19,10 @@ I want to boost up my career as a good researcher.
 
 **Area of interest**
 -----------
-Artificial Intelligence, Deep Learning, Data Science, Computational Biology and Respective Fields. 
+*Artificial Intelligence, Deep Learning, Data Science, Computational Biology and Respective Fields.*
 -----------
 
 **For additional information, please see my [CV](https://Solayman-Emon.github.io/cv/).**
-
------------
 
 
 # Skills 
