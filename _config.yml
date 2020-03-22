@@ -55,7 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
+ Social Sharing
 twitter:
   username               : 
 facebook:
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Solayman Hossain Emon"
   avatar           : "profile.jpg"
-  bio              : "Currently, I'm pursuing my Bachelor of Science (B.Sc) Degree in Computer Science & Engineering (CSE) from Ahsanullah University of Science and Technology (AUST). Always open to learning new skills and taking on new challenges. I want to boost up my career as a good researcher."
-  location         : #"Location"
+  bio              : "Deep Learning Enthusiast"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" 
-  email            :
+  email            : "solayman.emon07@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "solayman-hossain-emon-26505b185"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
