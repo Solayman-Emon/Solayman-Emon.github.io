@@ -12,13 +12,12 @@ author_profile: true
 
 ## Thesis Title 
 
-**Unsupervised Video Summarization from Cricket Videos With Deep Reinforcement Learning**
+**Unsupervised Video Summarization from Cricket Videos With Deep Reinforcement Learning** <br/>
 *Supervisor: Shoeb Mohammad Shahriar <br/>
-             Assistant Professor 
-			 Department of CSE, AUST.* 
+             Assistant Professor, 
+             Department of CSE, AUST.* 
 ___________________________________
 
------------
 
 # Work Experience
 -----------
