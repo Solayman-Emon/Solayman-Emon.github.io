@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Acamedic Credentials"
-    url: /publications/
+    url:  /education-awards/ 
 
   - title: "Research Experience"
-    url: /education-awards/    
+    url:  /publications/  
     
   - title: "Projects"
     url: /projects/

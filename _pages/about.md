@@ -20,7 +20,7 @@ I want to boost up my career as a good AI researcher. For additional information
 
 # Area of interest
 
-*Artificial Intelligence, Deep Learning, Data Science, Computational Biology and Respective Fields.*
+*Artificial Intelligence, Deep Learning, Computer Vision, Computational Biology and Respective Fields.*
 
 # Contact Me 
 

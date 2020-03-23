@@ -4,13 +4,16 @@ main:
     url: /
     
   - title: "Acamedic Credentials"
-    url: /publications/
+    url:   /education-awards/  
 
-  - title: "Research Experience"
-    url: /education-awards/    
+  - title: "Experience"
+    url:   /publications/  
     
   - title: "Projects"
     url: /projects/
     
-  - title: "CV"
+  - title: "Activities"
+    url: /
+    
+  - title: "Curriculum Vitae(CV)"
     url: /cv/
