@@ -21,16 +21,16 @@ I want to boost up my career as a good AI researcher.
 -----------
 *Artificial Intelligence, Deep Learning, Data Science, Computational Biology and Respective Fields.*
 
-**For additional information, please see my [CV](https://Solayman-Emon.github.io/files/resume_Solayman_Hossain_Emon.pdf)[<ins>*Last Updated on March, 2020*</ins>]**
+**For additional information, please see my [CV](https://Solayman-Emon.github.io/files/resume_Solayman_Hossain_Emon.pdf)  [<ins>*Last Updated on March, 2020*</ins>]**
 
 # Contact Me 
 <address>
-51/01 Mahuttuli, Bangshal, <br />
-Dhaka, Bangladesh. <br /> 
+**Adress:** 51/01 Mahuttuli, Bangshal, <br />
+            Dhaka, Bangladesh. <br /> 
 </address> 
 
-**Email:solayman.emon07@gmail.com**  <br />
-**Website:**  <br />
+**Email:** solayman.emon07@gmail.com  <br />
+**Website:** https://solayman-emon.github.io/  <br />
 **Cell:** +880 1521220812 <br />
 -----------
 
