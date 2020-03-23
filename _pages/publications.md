@@ -7,7 +7,7 @@ author_profile: true
 
 -----------
 
-# Undergraduate Research Work (Ongoing)
+## Undergraduate Research Work (Ongoing)
 ___________________________________
 
 ## Thesis Title 

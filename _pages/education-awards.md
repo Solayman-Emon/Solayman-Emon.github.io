@@ -10,7 +10,6 @@ redirect_from:
 ### B.Sc. in Computer Science and Engineering (CSE)
 ___________________________________
 
-
 * Ahsanullah University of Science & Technology, Dhaka, Bangladesh.
 * **CGPA:  3.479** [**out of 4.00** ]
 <br /> 
@@ -19,12 +18,11 @@ ___________________________________
 ### Higher Secondary School Certificate (HSC) in Science
 ___________________________________
 
-
 * Dhaka College, Dhaka, Bangladesh.
 * **GPA:  5.00** [**out of 5.00** ]
 <br /> 
 
-# Awards
+## Awards
 
 * Bangladesh Government Scholarship in Primary School
 * Bangladesh Government Scholarship in Junior School
