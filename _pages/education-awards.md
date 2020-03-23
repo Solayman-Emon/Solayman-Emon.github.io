@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Education"
 permalink: /education-awards/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
-# Education
 
 ### B.Sc. in Computer Science and Engineering (CSE)
 ___________________________________
@@ -19,7 +16,7 @@ ___________________________________
 <br /> 
 
 
-### HSC in Science
+### Higher Secondary School Certificate (HSC) in Science
 ___________________________________
 
 
@@ -28,5 +25,8 @@ ___________________________________
 <br /> 
 
 # Awards
+
+* Bangladesh Government Scholarship in Primary School
+* Bangladesh Government Scholarship in Junior School
 
 ___________________________________________
