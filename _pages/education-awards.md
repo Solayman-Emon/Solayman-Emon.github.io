@@ -11,7 +11,7 @@ redirect_from:
 ___________________________________
 
 * Ahsanullah University of Science & Technology, Dhaka, Bangladesh.
-* **CGPA: 3.479** [**out of 4.00**](Estimated Average up to 4th Year 1st Semester) 
+* **CGPA: 3.479** [**out of 4.00**]
 <br/> 
 
 

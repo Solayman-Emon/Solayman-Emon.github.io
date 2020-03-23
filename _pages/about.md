@@ -24,10 +24,10 @@ I want to boost up my career as a good AI researcher. For additional information
 
 # Contact Me 
 
-**Cell:**    +880 1521220812 <br />
-**Email:**   solayman.emon07@gmail.com  <br />
-**Address:** 51/01 Mahuttuli, Bangshal, Dhaka, Bangladesh. <br />              			 
-**Website:** [https://solayman-emon.github.io/](https://solayman-emon.github.io/)  <br />
+**Cell:**    +880 1521220812 <br/>
+**Email:**   solayman.emon07@gmail.com  <br/>
+**Address:** 51/01 Mahuttuli, Bangshal, Dhaka, Bangladesh. <br/>              			 
+**Website:** [https://solayman-emon.github.io/](https://solayman-emon.github.io/)  <br/>
 
 -----------
 
