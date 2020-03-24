@@ -7,18 +7,21 @@ author_profile: true
 
 ## Co-curricular Activities
 -----------
-## Undergraduate Research Work (Ongoing)
+* Participated in Intra Aust Programming Contest Fall 2016, Spring 2017 & Fall
+  2017.
 
-## Thesis Title 
-## Unsupervised Video Summarization from Cricket Videos With Deep Reinforcement Learning <br/>
-*Supervisor: Shoeb Mohammad Shahriar <br/>
-             Assistant Professor, 
-             Department of CSE, AUST.* 
+* Selected for ITEE (Information-Technology Engineers Examination) Training
+  Program Organized by Department of CSE, AUST.
 
-# Work Experience
+* Member at AUST Innovation & Design Club (AUSTIDC).
 
-* Freelancer at Freelancer.com 
-* Physics & ICT Teacher, SBM Academic Care, Dhaka. 
-* Sub-Executive of Olympiad at Dhaka College Science Club.
+* Volunteer at Department of Olympiad in 4th Farm Fresh Dhaka College Science
+  Club (DCSC) National Science Expo 2014.
+
+
+# Social Activies
+-----------
+* Executive Member at Durbin Foundation
+-----------
  
 ----------- 
