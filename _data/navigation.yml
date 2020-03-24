@@ -4,10 +4,10 @@ main:
     url: /
     
   - title: "Acamedic Credentials"
-    url:   /education-awards/  
+    url:   /acamedic_credentials/  
 
   - title: "Experience"
-    url:   /publications/  
+    url:   /experience/  
     
   - title: "Projects"
     url: /projects/

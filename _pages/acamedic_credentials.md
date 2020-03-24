@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /education-awards/
+permalink: /acamedic_credentials/
 author_profile: true
 redirect_from:
   - /resume
