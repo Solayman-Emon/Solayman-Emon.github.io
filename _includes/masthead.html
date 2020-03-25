@@ -1,19 +1,19 @@
 {% include base_path %}
 
-<div class="masthead" style="background-color:lightblue">
-  <div class="masthead__inner-wrap" style="background-color:lightblue">
-    <div class="masthead__menu" style="background-color:lightblue">
-      <nav id="site-nav" class="greedy-nav" style="background-color:lightblue">
+<div class="masthead" style="background-color:black">
+  <div class="masthead__inner-wrap" style="background-color:black">
+    <div class="masthead__menu" style="background-color:black">
+      <nav id="site-nav" class="greedy-nav" style="black">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li style="background-color:white" class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li style="background-color:white" class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
