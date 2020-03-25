@@ -19,9 +19,9 @@ author_profile: true
   Club (DCSC) National Science Expo 2014.
 
 
-# Social Activies
------------
+## Social Activies
+
 * Executive Member at Durbin Foundation
------------
+
  
 ----------- 
