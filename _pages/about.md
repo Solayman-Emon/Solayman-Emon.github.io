@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,8 +26,8 @@ I want to boost up my career as a good AI researcher. For additional information
 
 **Cell:**    +880 1521220812 <br/>
 **Email:**   solayman.emon07@gmail.com  <br/>
-**Address:** 51/01 Mahuttuli, Bangshal, Dhaka, Bangladesh. <br/>              			 
-**Website:** [https://solayman-emon.github.io/](https://solayman-emon.github.io/)  <br/>
+**Address:** 51 SSC Road Mahuttuli, Bangshal, Dhaka, Bangladesh. <br/>              			 
+**Website:** [https://solayman-emon.github.io](https://solayman-emon.github.io)  <br/>
 
 -----------
 
