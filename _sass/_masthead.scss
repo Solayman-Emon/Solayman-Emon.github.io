@@ -10,13 +10,15 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  color: $nav-color;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-
+	color: $nav-color;
+	
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
