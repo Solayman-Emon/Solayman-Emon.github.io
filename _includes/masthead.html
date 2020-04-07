@@ -3,10 +3,10 @@
 <div class="masthead" style="background-color:#0F0A4F ">
   <div class="masthead__inner-wrap" style="background-color:#0F0A4F ">
     <div class="masthead__menu" style="background-color:#0F0A4F ">
-      <nav id="site-nav" class="greedy-nav" style="#0F0A4F ">
-        <button><div class="navicon"></div></button>
+      <nav id="site-nav" class="greedy-nav" style="background-color:#0F0A4F ">
+        <button><div class="navicon"style="background-color:#0F0A4F "></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg" style="background-color:#0F0A4F "><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
