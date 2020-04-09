@@ -37,7 +37,7 @@
   }
 
   a {
-    color: inherit;
+    color: $white;
     text-decoration: none;
 
     &:hover {
@@ -82,11 +82,13 @@
   a {
     padding-right: 10px;
     font-weight: bold;
+	color: $white;
   }
 
   .social-icons {
     a {
       white-space: nowrap;
+	  color: $white;
     }
   }
 }
