@@ -18,5 +18,5 @@ author_profile: true
 * Executive Member at Durbin Foundation
 
 ## Massive Open Online Course(MOOC) 
-* Nueral Network & Deep Learning by Coursera [certificate](https://Solayman-Emon.github.io/files/Neural_Networks_Coursera.pdf)
-* Data Science by Coursera [certificate](https://Solayman-Emon.github.io/files/Data_Science_Coursera.pdf)
+* Coursera Deep Learning Specialization course oﬀered by deeplearning.ai [certificate](https://Solayman-Emon.github.io/files/Neural_Networks_Coursera.pdf)          
+* Data TensorFlow in Practice Specialization course offered by deeplearning.ai 
