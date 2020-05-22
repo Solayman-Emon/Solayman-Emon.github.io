@@ -12,11 +12,10 @@ author_profile: true
 * Sub-Executive of Olympiad at Dhaka College Science Club.
 
 # Research Experience
------------
+
 ## Undergraduate Research Work (Ongoing)
-## Thesis Title 
-## Unsupervised Video Summarization from Cricket Videos With Deep Reinforcement Learning. <br/>
-*Supervisor: Shoeb Mohammad Shahriar <br/>
+
+* Thesis Title: Automatic Video Summarization from Cricket Videos With Deep Learning. <br/>
+* Supervisor: Shoeb Mohammad Shahriar <br/>
              Assistant Professor, 
              Department of CSE, AUST.* 
------------ 
