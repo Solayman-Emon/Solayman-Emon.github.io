@@ -15,7 +15,7 @@ author_profile: true
 
 ## Undergraduate Research Work (Ongoing)
 
-* Thesis Title: Automatic Video Summarization from Cricket Videos With Deep Learning. <br/>
+* Thesis Title: **Automatic Video Summarization from Cricket Videos With Deep Learning.** <br/>
 * Supervisor: Shoeb Mohammad Shahriar <br/>
              Assistant Professor, 
              Department of CSE, AUST.* 

@@ -10,7 +10,7 @@ redirect_from:
 ### Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE)
 ___________________________________
 
-* Ahsanullah University of Science & Technology, Dhaka, Bangladesh.
+* [Ahsanullah University of Science & Technology](http://aust.edu/index.html), Dhaka, Bangladesh.
 * **CGPA: 3.479** [**out of 4.00**]
 <br/> 
 
@@ -18,7 +18,7 @@ ___________________________________
 ### Higher Secondary School Certificate (HSC) in Science
 ___________________________________
 
-* Dhaka College, Dhaka, Bangladesh.
+* [Dhaka College](https://en.wikipedia.org/wiki/Dhaka_College), Dhaka, Bangladesh.
 * **GPA: 5.00** [**out of 5.00**]
 <br/> 
 

@@ -18,5 +18,5 @@ author_profile: true
 * Executive Member at Durbin Foundation
 
 ## Massive Open Online Course(MOOC) 
-* [Coursera](https://www.coursera.org/)[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) course oﬀered by deeplearning.ai [certificate](https://Solayman-Emon.github.io/files/Neural_Networks_Coursera.pdf)          
+* [Coursera](https://www.coursera.org/) [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) course oﬀered by deeplearning.ai [certificate](https://Solayman-Emon.github.io/files/Neural_Networks_Coursera.pdf)          
 * [Coursera](https://www.coursera.org/) [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice?) course offered by deeplearning.ai 
