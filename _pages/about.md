@@ -13,9 +13,9 @@ redirect_from:
 Thanks for reaching out!
 
 My name is Solayman Hossain Emon. Currently, I'm pursuing my Bachelor of Science(B.Sc) Degree in 
-Computer Science & Engineering (CSE) from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/cse/index.htm),
-Dhaka, Bangladesh. I want to boost up my career as a good AI researcher. For additional information, please see my 
-[CV](https://Solayman-Emon.github.io/files/resume_Solayman_Hossain_Emon.pdf) [<ins>*Last Updated on March, 2020*</ins>]
+Computer Science & Engineering (CSE) from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/index.htm),
+Dhaka, [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh. I want to boost up my career as a good AI(Artificial Intelligence) researcher. For additional information, please see my 
+[CV](https://Solayman-Emon.github.io/files/resume_Solayman_Hossain_Emon.pdf) [<ins>*Last Updated on May, 2020*</ins>]
 
 # Area of interest
 
