@@ -10,13 +10,11 @@ redirect_from:
 ### Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE)
 ___________________________________
 
-```javascript
-
+```
 * [Ahsanullah University of Science & Technology](http://aust.edu/index.html), Dhaka, Bangladesh.
 * **CGPA: 3.479** [**out of 4.00**]
 <br/> 
- 
-```
+``` 
 
 ### Higher Secondary School Certificate (HSC) in Science
 ___________________________________
