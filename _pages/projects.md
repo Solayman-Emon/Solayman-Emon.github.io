@@ -11,7 +11,7 @@ author_profile: true
 ### [2020 - *Current*]
 -----------
 <div align="center">
-  <img src="../flies/demo_Video.gif" alt="Facilitated_Smart_Dustbin GIF" width="50%">
+  <img src="https://Solayman-Emon.github.io/files/demo_Video.gif" alt="Facilitated_Smart_Dustbin GIF" width="50%">
 </div>
 
 
