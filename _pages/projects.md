@@ -10,8 +10,10 @@ author_profile: true
 
 ### [2020 - *Current*]
 -----------
-* Typhon-21: A Comprehensive System for Bengali Text Documents.
-* Facinliated Smart Dustbin.
+<div align="center">
+  <img src="../flies/demo_Video.gif" alt="Facilitated_Smart_Dustbin GIF" width="50%">
+</div>
+
 
 ## Undergraduate Course Projects [2015-2017]
 ----------------
