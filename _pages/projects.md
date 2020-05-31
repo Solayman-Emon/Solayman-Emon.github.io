@@ -5,12 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Ongoing Projects
+## Ongoing Projects[2020 - *Current*]
 ----------------
 
-### [2020 - *Current*]
+### Undergraduate Research Work (Ongoing)
+### Thesis Title: “Automatic Video Summarization from Cricket Videos with Deep Learning”
 -----------
-
+<div align="center">
+  <img src="https://Solayman-Emon.github.io/files/cricket_vsumm.gif" alt="Facilitated_Smart_Dustbin GIF" width="50%">
+</div>
 
 ## Undergraduate Course Projects [2016-2020]
 ----------------
